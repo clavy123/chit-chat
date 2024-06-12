@@ -1,20 +1,22 @@
-Feature in Chit-Chat
+Features in Chit-Chat
 
 Authentication
 
 ![Screenshot 2024-06-12 194511](https://github.com/clavy123/chit-chat/assets/63097064/d8ad9ba7-b63d-4d69-9282-5f06230d206a)
 
-(https://github.com/clavy123/chit-chat/assets/63097064/4372c3af-9254-446b-ad2b-7ce02a088493)
+![Screenshot 2024-06-12 194532](https://github.com/clavy123/chit-chat/assets/63097064/35e9b63d-7a07-4b1a-90bc-66d9303a439f)
+
 
 Search User to chat
-(https://github.com/clavy123/chit-chat/assets/63097064/c31d3ffe-58a7-4a4a-aaf1-b29bbc4929f3)
+(https://![Screenshot 2024-06-12 194608](https://github.com/clavy123/chit-chat/assets/63097064/7148028c-11f1-4f40-a3cd-f669d9412b37)
 
 See Your Profile
-(https://github.com/clavy123/chit-chat/assets/63097064/abfd0490-26df-4dbf-94bd-a3e9c855a1cd)
+![Screenshot 2024-06-12 194627](https://github.com/clavy123/chit-chat/assets/63097064/3e3a7a09-3012-4414-aa73-934f26d6abe4)
+
 
 Add Group Chat
-(https://github.com/clavy123/chit-chat/assets/63097064/f5edcac6-d810-4699-8157-94ce74f8930a)
+
+![Screenshot 2024-06-12 194645](https://github.com/clavy123/chit-chat/assets/63097064/b83ca36c-15b1-485f-b625-8d025990c918)
 
 Online/Offline Status
-(https://github.com/clavy123/chit-chat/assets/63097064/65a11b75-0d2a-45d4-b324-acab1095d67b)
-
+![Screenshot 2024-06-12 194751](https://github.com/clavy123/chit-chat/assets/63097064/dd647fe5-5c7c-48da-b2fb-1195573457c1)
