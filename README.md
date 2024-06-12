@@ -8,9 +8,11 @@ Authentication
 
 
 Search User to chat
+
 ![Screenshot 2024-06-12 194608](https://github.com/clavy123/chit-chat/assets/63097064/7148028c-11f1-4f40-a3cd-f669d9412b37)
 
 See Your Profile
+
 ![Screenshot 2024-06-12 194627](https://github.com/clavy123/chit-chat/assets/63097064/3e3a7a09-3012-4414-aa73-934f26d6abe4)
 
 
@@ -19,4 +21,5 @@ Add Group Chat
 ![Screenshot 2024-06-12 194645](https://github.com/clavy123/chit-chat/assets/63097064/b83ca36c-15b1-485f-b625-8d025990c918)
 
 Online/Offline Status
+
 ![Screenshot 2024-06-12 194751](https://github.com/clavy123/chit-chat/assets/63097064/dd647fe5-5c7c-48da-b2fb-1195573457c1)
