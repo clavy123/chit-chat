@@ -8,7 +8,7 @@ Authentication
 
 
 Search User to chat
-(https://![Screenshot 2024-06-12 194608](https://github.com/clavy123/chit-chat/assets/63097064/7148028c-11f1-4f40-a3cd-f669d9412b37)
+![Screenshot 2024-06-12 194608](https://github.com/clavy123/chit-chat/assets/63097064/7148028c-11f1-4f40-a3cd-f669d9412b37)
 
 See Your Profile
 ![Screenshot 2024-06-12 194627](https://github.com/clavy123/chit-chat/assets/63097064/3e3a7a09-3012-4414-aa73-934f26d6abe4)
