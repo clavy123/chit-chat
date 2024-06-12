@@ -1,7 +1,8 @@
 Feature in Chit-Chat
 
 Authentication
-(https://github.com/clavy123/chit-chat/assets/63097064/a7c75179-8112-48c0-aeef-7b7e816b84e2)
+
+![Screenshot 2024-06-12 194511](https://github.com/clavy123/chit-chat/assets/63097064/d8ad9ba7-b63d-4d69-9282-5f06230d206a)
 
 (https://github.com/clavy123/chit-chat/assets/63097064/4372c3af-9254-446b-ad2b-7ce02a088493)
 
